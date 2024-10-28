@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBasic.iml" filepath="$PROJECT_DIR$/.idea/JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02/chap02.iml" filepath="$PROJECT_DIR$/chap02/chap02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03/chap03.iml" filepath="$PROJECT_DIR$/chap03/chap03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04/chap04.iml" filepath="$PROJECT_DIR$/chap04/chap04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05/chap05.iml" filepath="$PROJECT_DIR$/chap05/chap05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task1/task1.iml" filepath="$PROJECT_DIR$/task1/task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task2/task2.iml" filepath="$PROJECT_DIR$/task2/task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task3/task3.iml" filepath="$PROJECT_DIR$/task3/task3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task4/task4.iml" filepath="$PROJECT_DIR$/task4/task4.iml" />
+    </modules>
+  </component>
+</project>
